@@ -1,10 +1,10 @@
 {
-  "id": "com.test.app",
+  "id": "com.raymag.randomfox",
   "version": "0.0.1",
-  "vendor": "My Company",
+  "vendor": "Raymag",
   "type": "web",
-  "main": "index.html",
-  "title": "Test",
+  "main": "dist/index.html",
+  "title": "Random Fox",
   "icon": "icon.png",
   "largeIcon": "largeIcon.png"
 }

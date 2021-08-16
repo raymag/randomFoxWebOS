@@ -1,0 +1,18 @@
+{
+  "name": "randomfox",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": "https://github.com/raymag/randomFoxWebOS",
+  "author": "raymag <prayk11@outlook.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.0",
+    "babel-loader": "^8.2.2",
+    "webpack": "^5.50.0",
+    "webpack-cli": "^4.8.0"
+  }
+}
